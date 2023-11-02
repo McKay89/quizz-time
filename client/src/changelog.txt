@@ -1,0 +1,18 @@
+<---> Developers: McKay89, HanSolo, Norbi, Robi <--->
+
+QuizTime
+
+------ v0.1 ------
+# Quiz TimeAttack mode added
+# Time limit bug fixed
+# Started to work on Login & Authentication system
+# Planned scoreboard and leaderboard
+# More game modes on the queue
+
+
+----- v0.2 ------
+# Lot of bug fixed
+# QuizZ game mode added
+# Login & Auth system works
+# Scoreboard and Leaderboard works
+# Profile page appear (game statistics)
